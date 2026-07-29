@@ -1,20 +1,28 @@
-# Privacy Policy — NikoTheDoge
+# Niko the Doge — Support & Privacy Policy
 
-*Last updated: June 2025*
+*Last updated: July 2026*
+
+---
+
+## Support / Assistenza
+
+**English** — Need help, found a bug, or have feedback about Niko the Doge? Contact us at **siciliano.dev@icloud.com** and we'll get back to you as soon as possible.
+
+**Italiano** — Hai bisogno di aiuto, hai trovato un bug o vuoi darci un feedback su Niko the Doge? Scrivici a **siciliano.dev@icloud.com**, ti risponderemo il prima possibile.
 
 ---
 
 ## English
 
-**NikoTheDoge** is a free endless runner game. This Privacy Policy explains how the app handles information.
+**Niko the Doge** is a free endless runner game. This Privacy Policy explains how the app handles information.
 
 ### Data We Do Not Collect
 
-NikoTheDoge does **not** collect, store, or share any personally identifiable information. We do not use analytics, advertising SDKs, or third-party tracking in this version.
+Niko the Doge does **not** collect, store, or share any personally identifiable information. We do not use analytics, advertising SDKs, or third-party tracking in this version.
 
 ### Game Center
 
-NikoTheDoge integrates Apple Game Center for leaderboards and achievements. Any data associated with Game Center (username, scores) is managed entirely by Apple under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+Niko the Doge integrates Apple Game Center for leaderboards and achievements. Any data associated with Game Center (username, scores) is managed entirely by Apple under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ### In-App Purchases
 
@@ -26,7 +34,7 @@ The app uses iCloud Key-Value Storage to sync your game progress (high score, co
 
 ### Children's Privacy
 
-NikoTheDoge does not knowingly collect any data from children under 13.
+Niko the Doge does not knowingly collect any data from children under 13.
 
 ### Contact
 
@@ -36,15 +44,15 @@ For any questions about this Privacy Policy, contact us at: **siciliano.dev@iclo
 
 ## Italiano
 
-**NikoTheDoge** è un gioco endless runner gratuito. Questa Privacy Policy spiega come l'app gestisce le informazioni.
+**Niko the Doge** è un gioco endless runner gratuito. Questa Privacy Policy spiega come l'app gestisce le informazioni.
 
 ### Dati che non raccogliamo
 
-NikoTheDoge **non** raccoglie, memorizza o condivide alcuna informazione personale identificabile. In questa versione non utilizziamo analytics, SDK pubblicitari o tracking di terze parti.
+Niko the Doge **non** raccoglie, memorizza o condivide alcuna informazione personale identificabile. In questa versione non utilizziamo analytics, SDK pubblicitari o tracking di terze parti.
 
 ### Game Center
 
-NikoTheDoge integra Apple Game Center per classifiche e obiettivi. Qualsiasi dato associato a Game Center (nome utente, punteggi) è gestito interamente da Apple in base alla [Privacy Policy di Apple](https://www.apple.com/legal/privacy/).
+Niko the Doge integra Apple Game Center per classifiche e obiettivi. Qualsiasi dato associato a Game Center (nome utente, punteggi) è gestito interamente da Apple in base alla [Privacy Policy di Apple](https://www.apple.com/legal/privacy/).
 
 ### Acquisti in-app
 
@@ -56,7 +64,7 @@ L'app utilizza iCloud Key-Value Storage per sincronizzare i progressi di gioco (
 
 ### Privacy dei minori
 
-NikoTheDoge non raccoglie consapevolmente dati da bambini di età inferiore ai 13 anni.
+Niko the Doge non raccoglie consapevolmente dati da bambini di età inferiore ai 13 anni.
 
 ### Contatti
 
