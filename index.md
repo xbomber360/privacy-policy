@@ -6,3 +6,4 @@ Privacy policies for all iOS apps by xbomber360.
 |-----|---------------|
 | NikoTheDoge | [View](nikothedoge) |
 | Albo Professionisti | [View](albodeiprofessionisti) |
+| HYPERFOLD | [View](hyperfold) |
