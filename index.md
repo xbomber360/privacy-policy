@@ -1,9 +1,10 @@
 # Privacy Policies
 
-Privacy policies for all iOS apps by xbomber360.
+Privacy policies for apps and projects by xbomber360.
 
 | App | Privacy Policy |
 |-----|---------------|
 | NikoTheDoge | [View](nikothedoge) |
 | Albo Professionisti | [View](albodeiprofessionisti) |
 | HYPERFOLD | [View](hyperfold) |
+| Morena (@morena.ricci98) | [View](morena) |
