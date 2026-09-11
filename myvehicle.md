@@ -31,16 +31,20 @@ Everything in MyVehicle is entered by you. Depending on what you choose to recor
 - **Rides** — date, duration, distance, type of outing, the place (free text) and your notes.
 - **Maintenance** — services performed, dates and counter values, whether you did it yourself or a workshop did, the workshop's name, costs, and the parts used with their part numbers and prices.
 - **Tyres and refuelling** — fitments and fill‑ups, with quantities and amounts spent.
-- **Documents** — insurance, roadworthiness test, road tax and similar: type, company, policy number, validity dates, cost.
-- **Photos** — optionally a photo of a vehicle, and a photo of a receipt attached to a service.
+- **Documents** — insurance, roadworthiness test, road tax, the owner's manual and similar: type, company, policy number, validity dates, cost, and optionally the file itself.
+- **Photos and files** — optionally a photo of a vehicle, a photo of a receipt attached to a service, and a PDF or image attached to a document.
 
 Some of this can identify you or your vehicle — a number plate, a VIN, a policy number. Whether to record those fields is entirely your choice: they are all optional, and the app works without them.
 
-### Photos
+### Photos And Attachments
 
 Attaching a photo uses the **system photo picker**, which runs outside the app. The app is never granted access to your photo library — that is why iOS does not ask you for a photo permission — and it receives only the single image you picked. MyVehicle does not use the camera.
 
-Before the image is saved it is **resized and re-encoded**, which also means the metadata that a photo usually carries is **not kept: no GPS coordinates, no capture date, no device information**. Only the pixels are stored. From then on a photo lives in the same database as everything else and follows the same rules described below. Photos are never analysed, and nothing is read out of them.
+Before the image is saved it is **resized and re-encoded**, which also means the metadata that a photo usually carries is **not kept: no GPS coordinates, no capture date, no device information**. Only the pixels are stored. Photos are never analysed, and nothing is read out of them.
+
+Files are attached the same way, through the **system file picker**: the app gets the one file you chose and nothing else. A PDF is stored exactly as it is, because re-encoding it would cost you the selectable text and the bookmarks — which does mean a PDF keeps whatever metadata its own author put inside it, unlike a photo. Attachments are capped at 25 MB, since they sync along with everything else.
+
+From then on photos and files live in the same database as the rest and follow the same rules described below.
 
 ### Where Your Data Is Stored
 
@@ -68,7 +72,7 @@ MyVehicle does not knowingly collect any data from children under 13.
 
 ### Changes To This Policy
 
-If MyVehicle ever introduces features that change how data is handled — for example attaching PDF documents, sharing a garage with another person, or any feature involving a server of ours — this policy will be updated before those features ship.
+If MyVehicle ever introduces features that change how data is handled — for example sharing a garage with another person, or any feature involving a server of ours — this policy will be updated before those features ship.
 
 ### Contact
 
@@ -95,16 +99,20 @@ Tutto ciò che c'è in MyVehicle lo inserisci tu. A seconda di cosa scegli di re
 - **Uscite** — data, durata, distanza, tipo di uscita, il luogo (testo libero) e le tue note.
 - **Manutenzioni** — interventi eseguiti, date e contatori, se li hai fatti da solo o in officina, il nome dell'officina, i costi e i ricambi usati con codice e prezzo.
 - **Gomme e rifornimenti** — montaggi e pieni, con quantità e spesa.
-- **Documenti** — assicurazione, revisione, bollo e simili: tipo, compagnia, numero di polizza, validità, costo.
-- **Foto** — se vuoi, la foto di un veicolo e la foto di uno scontrino allegata a un intervento.
+- **Documenti** — assicurazione, revisione, bollo, libretto di uso e manutenzione e simili: tipo, compagnia, numero di polizza, validità, costo e, se vuoi, il file stesso.
+- **Foto e file** — se vuoi, la foto di un veicolo, la foto di uno scontrino allegata a un intervento e un PDF o un'immagine allegati a un documento.
 
 Alcune di queste informazioni possono identificare te o il tuo veicolo: una targa, un numero di telaio, un numero di polizza. Se registrarle è una scelta solo tua: sono tutti campi facoltativi e l'app funziona anche senza.
 
-### Foto
+### Foto e allegati
 
 Per allegare una foto si usa il **selettore foto di sistema**, che gira fuori dall'app. All'app non viene mai dato accesso alla tua libreria — è il motivo per cui iOS non ti chiede nessun permesso per le foto — e riceve solo la singola immagine che hai scelto. MyVehicle non usa la fotocamera.
 
-Prima di essere salvata, l'immagine viene **ridimensionata e ricodificata**: questo comporta che i metadati che una foto normalmente si porta dietro **non vengono conservati: nessuna coordinata GPS, nessuna data di scatto, nessuna informazione sul dispositivo**. Vengono salvati solo i pixel. Da lì in poi la foto vive nello stesso database di tutto il resto e segue le stesse regole descritte qui sotto. Le foto non vengono mai analizzate e da esse non viene letto nulla.
+Prima di essere salvata, l'immagine viene **ridimensionata e ricodificata**: questo comporta che i metadati che una foto normalmente si porta dietro **non vengono conservati: nessuna coordinata GPS, nessuna data di scatto, nessuna informazione sul dispositivo**. Vengono salvati solo i pixel. Le foto non vengono mai analizzate e da esse non viene letto nulla.
+
+I file si allegano allo stesso modo, con il **selettore file di sistema**: all'app arriva il singolo file che hai scelto e nient'altro. Un PDF viene salvato esattamente com'è, perché ricodificarlo ti costerebbe il testo selezionabile e i segnalibri — il che però significa che un PDF conserva i metadati che ci ha messo dentro chi l'ha prodotto, a differenza di una foto. Gli allegati hanno un limite di 25 MB, dato che vengono sincronizzati insieme a tutto il resto.
+
+Da lì in poi foto e file vivono nello stesso database del resto e seguono le stesse regole descritte qui sotto.
 
 ### Dove sono conservati i dati
 
@@ -132,7 +140,7 @@ MyVehicle non raccoglie consapevolmente dati da bambini di età inferiore ai 13 
 
 ### Modifiche a questa informativa
 
-Se in futuro MyVehicle introdurrà funzionalità che cambiano il trattamento dei dati — per esempio l'allegato di documenti PDF, la condivisione del garage con un'altra persona, o qualsiasi funzione che coinvolga un nostro server — questa informativa sarà aggiornata prima del rilascio di tali funzionalità.
+Se in futuro MyVehicle introdurrà funzionalità che cambiano il trattamento dei dati — per esempio la condivisione del garage con un'altra persona, o qualsiasi funzione che coinvolga un nostro server — questa informativa sarà aggiornata prima del rilascio di tali funzionalità.
 
 ### Contatti
 
