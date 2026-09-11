@@ -8,3 +8,4 @@ Privacy policies for apps and projects by xbomber360.
 | Albo Professionisti | [View](albodeiprofessionisti) |
 | HYPERFOLD | [View](hyperfold) |
 | Morena (@morena.ricci98) | [View](morena) |
+| MyVehicle | [View](myvehicle) |
