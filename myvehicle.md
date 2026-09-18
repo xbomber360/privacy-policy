@@ -1,6 +1,6 @@
 # MyVehicle — Support & Privacy Policy
 
-*Last updated: September 2026*
+*Last updated: 18 September 2026*
 
 ---
 
@@ -18,9 +18,25 @@
 
 ### Data We Do Not Collect
 
-MyVehicle has **no servers and no accounts**. We never receive your data: there is nothing to sign up for, and the app sends nothing to us.
+MyVehicle has **no servers and no accounts**. We never receive your data: there is nothing to sign up for, and nothing about your garage is ever sent to us or to anyone else. It does not use GPS or any location service: if you write down where you rode, that is text you typed yourself.
 
-The app contains **no analytics, no advertising SDKs and no third‑party tracking of any kind**, and it does not track you across apps or websites. It makes no network requests other than syncing with your own iCloud account, as described below. It does not use GPS or any location service: if you write down where you rode, that is text you typed yourself.
+The app contains **no analytics**. It does contain advertising, which is described in the next section — that is the one part of the app that talks to a third party, and it never sees what is in your garage.
+
+### Advertising
+
+The free version of MyVehicle shows advertising supplied by **Google AdMob**: a banner on the Garage, Deadlines and Statistics screens, and occasionally a full-screen advert when you open a form that records something new.
+
+To serve and measure those adverts, the Google Mobile Ads SDK collects **device and usage information** — a device identifier, general information about the device and the app, interaction with the adverts, and diagnostic data. That happens inside Google's SDK: we do not receive any of it, and we do not have an account-level view of you. Google's handling of that data is governed by the [Google Privacy Policy](https://policies.google.com/privacy) and by [how Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
+
+**The adverts are non-personalised.** The app explicitly asks Google not to personalise them, which is why iOS never shows you the "allow tracking" prompt: MyVehicle does not use the advertising identifier to follow you across other apps or websites, and it does not build a profile of you. Non-personalised adverts still use the context of the app and coarse, non-identifying signals to be served and counted.
+
+**Your garage is never part of it.** Vehicles, counters, rides, services, costs, documents, photos and notes are not sent to Google or used to choose adverts. The advertising knows nothing about your bikes.
+
+### Removing The Advertising
+
+A single in-app purchase of **0,99 €** removes the advertising permanently. It is a one-off purchase, not a subscription, and it is tied to your Apple Account, so it applies to your other devices and can be restored with **Restore purchases** in Settings after reinstalling or changing phone.
+
+The purchase is handled entirely by Apple. We never see your payment details: the app only asks Apple whether this Apple Account owns the purchase. Once it does, the advertising SDK is **not even started** — nothing is loaded and nothing is collected.
 
 ### What You Store In The App
 
@@ -86,9 +102,25 @@ For any questions about this Privacy Policy, contact us at: **siciliano.dev@iclo
 
 ### Dati che non raccogliamo
 
-MyVehicle **non ha server e non ha account**. I tuoi dati non ci arrivano mai: non c'è nessuna registrazione da fare e l'app non ci invia nulla.
+MyVehicle **non ha server e non ha account**. I tuoi dati non ci arrivano mai: non c'è nessuna registrazione da fare, e niente di quello che c'è nel tuo garage viene inviato a noi o a chiunque altro. Non usa il GPS né alcun servizio di localizzazione: se annoti dove hai girato, è testo che hai scritto tu.
 
-L'app non contiene **analytics, SDK pubblicitari né tracciamento di terze parti di alcun tipo**, e non ti traccia su altre app o siti. Non effettua chiamate di rete al di fuori della sincronizzazione con il tuo iCloud, descritta più avanti. Non usa il GPS né alcun servizio di localizzazione: se annoti dove hai girato, è testo che hai scritto tu.
+L'app non contiene **analytics**. Contiene invece la pubblicità, descritta qui sotto: è l'unica parte dell'app che parla con un terzo, e non vede mai cosa c'è nel tuo garage.
+
+### Pubblicità
+
+La versione gratuita di MyVehicle mostra pubblicità fornita da **Google AdMob**: un banner nelle schermate Garage, Scadenze e Statistiche e, ogni tanto, un annuncio a schermo intero quando apri un modulo per registrare qualcosa.
+
+Per mostrare e contare quegli annunci, l'SDK Google Mobile Ads raccoglie **informazioni sul dispositivo e sull'uso**: un identificativo del dispositivo, informazioni generiche su dispositivo e app, l'interazione con gli annunci e dati diagnostici. Succede dentro l'SDK di Google: a noi non arriva niente e non abbiamo nessuna vista su di te. Il trattamento da parte di Google è regolato dalle [norme sulla privacy di Google](https://policies.google.com/privacy) e da [come Google utilizza le informazioni dei siti o delle app che usano i suoi servizi](https://policies.google.com/technologies/partner-sites).
+
+**Gli annunci sono non personalizzati.** L'app chiede esplicitamente a Google di non personalizzarli, ed è il motivo per cui iOS non ti mostra mai la richiesta «consenti il tracciamento»: MyVehicle non usa l'identificativo pubblicitario per seguirti su altre app o siti e non costruisce un profilo su di te. Un annuncio non personalizzato usa comunque il contesto dell'app e segnali grossolani e non identificativi per essere mostrato e conteggiato.
+
+**Il tuo garage non c'entra mai.** Veicoli, contatori, uscite, interventi, costi, documenti, foto e note non vengono inviati a Google né usati per scegliere gli annunci. La pubblicità non sa niente delle tue moto.
+
+### Togliere la pubblicità
+
+Un acquisto in-app di **0,99 €** rimuove la pubblicità per sempre. È un acquisto una tantum, non un abbonamento, ed è legato al tuo Apple Account: vale anche sugli altri tuoi dispositivi e si recupera con **Ripristina acquisti** nelle impostazioni dopo una reinstallazione o un cambio di telefono.
+
+L'acquisto è gestito interamente da Apple. I tuoi dati di pagamento non li vediamo mai: l'app chiede ad Apple soltanto se questo Apple Account possiede l'acquisto. Quando lo possiede, l'SDK pubblicitario **non viene nemmeno avviato**: non carica niente e non raccoglie niente.
 
 ### Cosa salvi nell'app
 
