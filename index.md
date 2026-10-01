@@ -9,4 +9,4 @@ Privacy policies for apps and projects by xbomber360.
 | HYPERFOLD | [View](hyperfold) |
 | Morena (@morena.ricci98) | [View](morena) |
 | MyVehicle | [View](myvehicle) |
-| NoNut | [View](nonut) |
+| No Nut November | [View](nonut) |
