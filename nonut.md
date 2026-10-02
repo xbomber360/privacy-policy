@@ -1,6 +1,6 @@
 # No Nut November — Support & Privacy Policy
 
-*Last updated: 1 October 2026*
+*Last updated: 2 October 2026*
 
 ---
 
@@ -20,7 +20,7 @@
 
 No Nut November has **no servers and no accounts**. We never receive your data: there is nothing to sign up for, and nothing you record in the app is ever sent to us or to anyone else.
 
-The app contains **no analytics, no advertising and no third-party SDKs**, and it does not track you across other apps or websites. It does not use location services, the camera, the microphone or contacts.
+The app contains **no analytics** and does not track you across other apps or websites. The only third-party component is the advertising SDK described in *Advertising And Purchases* below. It does not use location services, the camera, the microphone or contacts.
 
 ### What You Store In The App
 
@@ -47,6 +47,14 @@ Your data lives in a database **on your device**. The home-screen and lock-scree
 If you are signed in to iCloud, the app also syncs its database to **your own private iCloud database (CloudKit)**, so your progress is available on your other devices. This is Apple's infrastructure, tied to your Apple Account: we have no access to it, and neither does anyone else. Apple's handling of that data is governed by the [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
 
 If you are not signed in to iCloud, everything stays on your device and nothing is transmitted anywhere.
+
+### Advertising And Purchases
+
+The app is free and shows an advertising banner provided by **Google AdMob** (Google LLC). Ads are **non-personalized**: the app does not ask for tracking permission (ATT) and does not use what you write in the app to choose ads. To show and measure ads, prevent abuse and fraud and run its SDK, Google may collect technical device data, such as device identifiers, IP address, information about how you interact with the ad, and crash and performance data. We do not receive this data and do not link it to your identity. Nothing you record in the app (streaks, notes, reasons, photos) is ever shared with Google.
+
+In the European Union, the European Economic Area and the United Kingdom, you are asked for consent at first launch through Google's consent form; you can change your answer at any time in **Settings → Advertising → Ad consent**. See [how Google uses data](https://policies.google.com/technologies/partner-sites).
+
+You can remove the ads with a **one-time purchase** (Settings → Advertising) and restore it on any device with **Restore purchases**. Payment is handled by Apple: we never receive or store your payment details.
 
 ### App Lock (Face ID / Touch ID)
 
@@ -86,7 +94,7 @@ For any questions about this Privacy Policy, contact us at: **siciliano.dev@iclo
 
 No Nut November **non ha server e non ha account**. I tuoi dati non ci arrivano mai: non c'è nessuna registrazione da fare, e niente di quello che registri nell'app viene inviato a noi o a chiunque altro.
 
-L'app non contiene **analytics, pubblicità o SDK di terze parti** e non ti traccia su altre app o siti. Non usa servizi di localizzazione, fotocamera, microfono o contatti.
+L'app non contiene **analytics** e non ti traccia su altre app o siti. L'unico componente di terze parti è l'SDK pubblicitario descritto in *Pubblicità e acquisti* qui sotto. Non usa servizi di localizzazione, fotocamera, microfono o contatti.
 
 ### Cosa salvi nell'app
 
@@ -113,6 +121,14 @@ I tuoi dati stanno in un database **sul tuo dispositivo**. I widget della scherm
 Se hai effettuato l'accesso a iCloud, l'app sincronizza il database anche sul **tuo database iCloud privato (CloudKit)**, così i progressi sono disponibili sugli altri tuoi dispositivi. È l'infrastruttura di Apple, legata al tuo Apple Account: noi non vi abbiamo accesso, e nessun altro ce l'ha. Il trattamento da parte di Apple è regolato dall'[informativa sulla privacy di Apple](https://www.apple.com/legal/privacy/).
 
 Se non hai l'accesso a iCloud, tutto resta sul dispositivo e non viene trasmesso da nessuna parte.
+
+### Pubblicità e acquisti
+
+L'app è gratuita e mostra un banner pubblicitario fornito da **Google AdMob** (Google LLC). Gli annunci sono **non personalizzati**: l'app non chiede il permesso di tracciamento (ATT) e non usa ciò che scrivi nell'app per scegliere gli annunci. Per mostrare e misurare gli annunci, prevenire abusi e frodi e far funzionare l'SDK, Google può raccogliere dati tecnici del dispositivo, come identificativi del dispositivo, indirizzo IP, informazioni sull'interazione con l'annuncio e dati su arresti anomali e prestazioni. Noi non riceviamo questi dati e non li colleghiamo alla tua identità. Niente di ciò che registri nell'app (streak, note, motivi, foto) viene condiviso con Google.
+
+Nell'Unione europea, nello Spazio economico europeo e nel Regno Unito, al primo avvio ti viene chiesto il consenso tramite il modulo di Google; puoi cambiare la risposta in qualsiasi momento da **Impostazioni → Pubblicità → Consenso per gli annunci**. Vedi [come Google usa i dati](https://policies.google.com/technologies/partner-sites).
+
+Puoi rimuovere la pubblicità con un **acquisto unico** (Impostazioni → Pubblicità) e ripristinarlo su qualsiasi dispositivo con **Ripristina acquisti**. Il pagamento è gestito da Apple: non riceviamo né conserviamo i tuoi dati di pagamento.
 
 ### Blocco dell'app (Face ID / Touch ID)
 
