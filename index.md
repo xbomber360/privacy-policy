@@ -12,3 +12,4 @@ Privacy policies for apps and projects by xbomber360.
 | No Nut November | [View](nonut) |
 | Moto Workouts | [View](motoworkouts) |
 | Skyline Stack | [View](stack) |
+| Tile Rush | [View](tilerush) |
