@@ -11,5 +11,5 @@ Privacy policies for apps and projects by xbomber360.
 | MyVehicle | [View](myvehicle) |
 | No Nut November | [View](nonut) |
 | Moto Workouts | [View](motoworkouts) |
-| Skyline Stack | [View](stack) |
+| Tapscraper | [View](tapscraper) |
 | Tile Rush | [View](tilerush) |
