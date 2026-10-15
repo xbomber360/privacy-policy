@@ -14,7 +14,7 @@
 
 ## English
 
-**Tapscraper** is an arcade game: a block swings over a tower and you tap to drop it, trying to stack as high as you can. This Privacy Policy explains how the app handles information.
+**Tapscraper** is an arcade game: a block swings over a tower and you tap to drop it, trying to build as high as you can. This Privacy Policy explains how the app handles information.
 
 ### Data We Do Not Collect
 
