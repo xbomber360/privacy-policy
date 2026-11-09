@@ -13,3 +13,4 @@ Privacy policies for apps and projects by xbomber360.
 | Moto Workouts | [View](motoworkouts) |
 | Tapscraper | [View](tapscraper) |
 | Tile Rush | [View](tilerush) |
+| Gestione Finanze | [View](gestionefinanze) |
