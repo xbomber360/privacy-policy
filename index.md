@@ -10,6 +10,7 @@ Privacy policies for apps and projects by xbomber360.
 | Morena (@morena.ricci98) | [View](morena) |
 | MyVehicle | [View](myvehicle) |
 | No Nut November | [View](nonut) |
+| Fioretto | [View](fioretto) |
 | Moto Workouts | [View](motoworkouts) |
 | Tapscraper | [View](tapscraper) |
 | Tile Rush | [View](tilerush) |
